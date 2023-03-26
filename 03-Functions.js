@@ -66,3 +66,17 @@ doubleNumber(11)  // 22
 
 let a = 21
 doubleNumber(a) // 42
+
+// Some functions take more than one parameter. We always separate the list with commas.
+
+function addTwoNums(num1, num2) {
+  console.log(num1 + num2)
+}
+
+addTwoNums(11, 15) // 26
+
+// or...
+
+const x = 11
+const y = 15
+addTwoNums(x, y) // 26

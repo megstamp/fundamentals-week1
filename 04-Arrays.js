@@ -1,6 +1,6 @@
 // IV. Arrays
 
-// Arrays are lists.
+// Arrays are lists. ORDER MATTERS!
 
 // We use square brackets [] to denote an array.
 
