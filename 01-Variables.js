@@ -30,3 +30,32 @@ myTotal = myTotal + 4.99; // now it is 22.98
 // We can also just re-declare it anything we want like:
 myTotal = 128.97;
 
+//challenges:
+let count = 5
+count = count + 1
+count++
+console.log(count)
+console.log("the count is: " + count)
+
+
+const myName = "Lisa"
+const color = "yellow"
+console.log(myName + "'s favorite color is " + color + ".") 
+console.log(`${myName}'s favorite color is ${color}.`)
+
+
+const hours = 10
+const min = hours * 60
+const sec = min * 60
+
+
+const myFavAnimal = "dog"
+console.log("My favorite animal is a " + myFavAnimal)
+
+
+
+
+
+
+
+
