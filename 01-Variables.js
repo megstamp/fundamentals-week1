@@ -3,13 +3,14 @@
 // Variables are named "containers" that can hold a value.
 
 const firstName = "Todd";
+const schoolAddress = "7035 Beracasa Way, Suite 207, Boca Raton FL 33433";
 
 // These can be used to hold Strings (like above), Numbers, or Booleans (true/false).
 // (They can also hold more advanced structures like Objects, Arrays, and even Functions.
 //  We'll see these in a bit...)
 
-const age = 47;
-const subTotal = 98.79;
+const age = 47; // Numbers can be Integers (like this)
+const subTotal = 98.79; // or Decimal or Float (like this)
 
 const payingWithCreditCard = true;
 
