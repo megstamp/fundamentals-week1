@@ -15,3 +15,11 @@ for(let i = 0; i < 10; i++) {
 
 // conventionally, we use i for our increment (counter)
 
+
+// ~~~~ PRACTICE ~~~~
+
+// 1. Create a loop that outputs the numbers 0 through 7.
+
+// 2. Create a loop that counts down from 10 to 1.
+
+// 3. Use a loop to say "I am amazing!" 10 times.

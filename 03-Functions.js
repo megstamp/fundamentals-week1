@@ -80,3 +80,32 @@ addTwoNums(11, 15) // 26
 const x = 11
 const y = 15
 addTwoNums(x, y) // 26
+
+
+//Practice
+
+//1. Create a function that takes in a number 
+//as a parameter and prints the square of that number
+
+
+// 2. Create a function that takes in two numbers and prints which number is larger.
+
+// 3. Write a function that converts weeks into hours. Return the result. 
+//Invoke the function.
+
+function convertWeeksToHours(weeks) {
+  const hours = weeks * 24 * 7;
+  console.log(hours);
+  return hours; 
+}
+
+console.log(convertWeeksToHours(5));
+//same as
+const totalHours = convertWeeksToHours(5);
+console.log(totalHours);
+
+
+
+
+
+}

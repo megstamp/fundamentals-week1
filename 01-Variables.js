@@ -31,26 +31,55 @@ myTotal = myTotal + 4.99; // now it is 22.98
 myTotal = 128.97;
 
 //challenges:
-let count = 5
+let count = 5 // this is defining the variable 
 count = count + 1
+//same as
 count++
 console.log(count)
 console.log("the count is: " + count)
 
 
-const myName = "Lisa"
-const color = "yellow"
-console.log(myName + "'s favorite color is " + color + ".") 
-console.log(`${myName}'s favorite color is ${color}.`)
+// const myName = "Lisa" // myName is immutable
+// const color = "yellow"
+// console.log(myName + "'s favorite color is " + color + ".") 
+// console.log(`${myName}'s favorite color is ${color}.`)
 
 
 const hours = 10
 const min = hours * 60
 const sec = min * 60
+console.log(sec)
 
 
 const myFavAnimal = "dog"
 console.log("My favorite animal is a " + myFavAnimal)
+
+
+// ~~~~ PRACTICE ~~~~
+
+// 1. Create a mutable variable named count and set it to 5.
+
+let counter = 5
+
+// 2. Now add 1 to count.
+
+counter ++
+
+// 3. Print count to the console.
+
+console.log(counter)
+
+// 4. Create an immutable variable called myName and give it a value.
+
+const myName = "Todd"
+
+// 5. Create an immutable variable named color and give it a value.
+
+const color1 = "purple"
+
+// 6. Print out the name and color in the format "Todd's favorite color is purple."
+
+console.log(myName + "'s favorite color is " + color1)
 
 
 

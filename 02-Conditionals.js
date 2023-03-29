@@ -79,3 +79,34 @@ if(age >= 18) {
 (age >= 18) ? console.log("Adult") : console.log("Minor")
 
 // A ternary looks like (__) ? __ : __
+
+
+ 
+// // ~~~~ PRACTICE ~~~~
+
+// 1. Create an immutable variable named didHomework and set it to true or false.
+
+const didHomework = false
+
+// 2. Check if didHomework is true, then print "You can play".
+if(didHomework = true) {
+console.log("You can play")
+}
+
+// 3. Create an immutable variable called age and give it a value.
+
+const age = 44
+
+// 4. Check if age is 55 or over and say "You qualify for AARP", 
+// otherwise say "You do NOT qualify."
+
+
+// ~~~~ PRACTICE ~~~~
+
+// 1. Create a immutable variable named didHomework and set it to true or false.
+
+// 2. Check if didHomework is true, then print "You can play".
+
+// 3. Create an immutable variable called age and give it a value.
+
+// 4. Check if age is 55 or over and say "You qualify for AARP", otherwise say "You do NOT qualify."
