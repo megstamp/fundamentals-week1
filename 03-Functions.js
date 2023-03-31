@@ -98,14 +98,9 @@ function convertWeeksToHours(weeks) {
   console.log(hours);
   return hours; 
 }
-
 console.log(convertWeeksToHours(5));
+
 //same as
 const totalHours = convertWeeksToHours(5);
 console.log(totalHours);
 
-
-
-
-
-}
